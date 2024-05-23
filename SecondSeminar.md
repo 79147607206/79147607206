@@ -6,3 +6,4 @@ git branch branch_name - создание новой ветки
 git merge branch - слияние двух веток
 ## Conflicts
 Конфликты возникают когда затрагиваем общее пространство
+hello world
