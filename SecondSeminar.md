@@ -7,3 +7,4 @@ git merge branch - слияние двух веток
 ## Conflicts
 Конфликты возникают когда затрагиваем общее пространство
 hello world
+test5
